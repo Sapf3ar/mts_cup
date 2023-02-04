@@ -1,2 +1,2 @@
 # mts_cup
-MTS ML Cup
+MTS ML cup
